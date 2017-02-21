@@ -92,7 +92,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/editText2"
         android:layout_alignLeft="@+id/textView3"
-        android:text="Age"
+        android:text="DOB"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
 </RelativeLayout>
